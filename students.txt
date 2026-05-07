@@ -1,0 +1,2 @@
+gcc add_student.c -o add_student.exe
+gcc view_students.c -o view_students.exe
